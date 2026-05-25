@@ -42,7 +42,7 @@ Based on an Israeli Arabic system (not Persian). Arabic is right-to-left.
 | P | پ (U+067E) | ب with three dots below |
 | V | ڤ (U+06A4) | ف with three dots below |
 | G | چ (U+0686) | ج with three dots below |
-| CH | شت | two characters: ت then ش (right to left) |
+| CH | تش | two characters: ت then ش (logical order, displays right-to-left) |
 
 Standard Arabic letters cover remaining sounds. Table to be expanded in step 5 (throwaway script).
 
