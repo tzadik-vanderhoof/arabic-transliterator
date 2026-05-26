@@ -21,7 +21,7 @@ function walkTextNodes(node) {
 }
 
 chrome.runtime.onMessage.addListener((message) => {
-  if (message.action === 'transliterate') {
+  if (message.action === 'applyTransliteration') {
     document.body.dir = 'rtl';
     walkTextNodes(document.body);
   }
