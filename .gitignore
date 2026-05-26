@@ -1,6 +1,7 @@
 node_modules/
 output.txt
 bundle.js
+screenshot-bundle.js
 extension.zip
 extension-test/
 .claude/

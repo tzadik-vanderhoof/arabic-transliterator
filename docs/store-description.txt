@@ -1,0 +1,37 @@
+Arabic Transliterator converts any English web page into Arabic script — not by translating the meaning, but by representing the sounds of the English words using Arabic letters.
+
+Who is this for?
+
+This extension is designed for people who are learning to read Arabic script. Reading a real language takes years, but learning to recognize the letters and decode words can happen much faster — if you have something to practice on.
+
+The problem is that Arabic learners quickly run out of beginner reading material. Graded readers are limited, and authentic Arabic content is too difficult when you're just starting out.
+
+Arabic Transliterator gives you an unlimited source of reading practice: the entire English-language web, rendered in Arabic script. Because you already know what the page says, you can focus entirely on decoding the letters and sounds — without getting lost in unfamiliar vocabulary or grammar.
+
+How it works
+
+Click the extension button on any page and the text is instantly rewritten in Arabic characters. The sounds of each English word are mapped to their closest Arabic equivalents using a 134,000-word pronunciation dictionary. Words are rendered right-to-left, just like real Arabic.
+
+Click the button again and the original page is restored.
+
+What you'll learn
+
+- Recognize the Arabic letters that correspond to sounds shared with English — a solid foundation before tackling sounds that are unique to Arabic
+- Read right-to-left naturally
+- Build reading speed through repetition on familiar content
+- Develop an intuition for how Arabic sounds map to letters
+
+Special characters for English sounds
+
+English has several sounds that don't exist in standard Arabic. This extension uses extended Arabic letters — common in modern usage for writing foreign words — to represent them:
+
+  پ (P) — as in "park"
+  ڤ (V) — as in "very"
+  چ (G) — hard G, as in "go"
+  تش (CH) — as in "church"
+  نچ (NG) — as in "thing"
+  ژ (ZH) — as in "measure"
+
+A note on accuracy
+
+This is transliteration, not translation — the Arabic on screen represents English sounds, not Arabic words. Arabic has several sounds with no English equivalent (emphatic consonants, pharyngeal sounds), so those letters won't appear here. Think of this as training wheels for your eyes: once you can read the shared sounds fluently, the remaining letters are much easier to tackle in a real Arabic course.

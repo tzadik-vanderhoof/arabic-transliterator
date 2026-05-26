@@ -51,6 +51,12 @@ Based on an Israeli Arabic system (not Persian). Arabic is right-to-left.
 
 Standard Arabic letters cover remaining sounds.
 
+## URLs
+
+- Privacy policy: https://tzadik-vanderhoof.github.io/arabic-transliterator/privacy-policy.html
+- GitHub repo: https://github.com/tzadik-vanderhoof/arabic-transliterator
+- Chrome Web Store description: docs/store-description.txt
+
 ## Code Style
 
 - Prefer intermediate variables over complex nested expressions — break multi-step operations into named steps.
