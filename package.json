@@ -1,7 +1,8 @@
 {
   "type": "module",
   "scripts": {
-    "build": "esbuild content-script.js --bundle --format=iife --outfile=bundle.js --platform=browser"
+    "build": "esbuild content-script.js --bundle --format=iife --outfile=bundle.js --platform=browser",
+    "zip": "npm run build && powershell Compress-Archive -Force -Path manifest.json,bundle.js,background.js,icons -DestinationPath extension.zip"
   },
   "dependencies": {
     "cmu-pronouncing-dictionary": "^3.0.0"
