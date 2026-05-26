@@ -1,1 +1,1 @@
-Hello world. This is a test of the transliteration system.
+Hello world. This is a test of the phish system.
