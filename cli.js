@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { transliterate } from './bundle.js';
+import { transliterate } from './transliterate.js';
 
 const [,, inputFile, outputFile] = process.argv;
 if (!inputFile || !outputFile) {
