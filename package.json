@@ -1,6 +1,12 @@
 {
   "type": "module",
+  "scripts": {
+    "build": "esbuild transliterate.js --bundle --format=esm --outfile=bundle.js --platform=browser"
+  },
   "dependencies": {
     "cmu-pronouncing-dictionary": "^3.0.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0"
   }
 }
